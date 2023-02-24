@@ -5,7 +5,8 @@ Internship Category - Data Science and Business Analytics
 Internship Duration - 1 Month (February 2023)
 Internship Type - Remote
 
-Task 1
+Task 1:
+
 Prediction using Supervised ML
 ● Predict the percentage of a student based on the no. of study hours.
 
@@ -13,11 +14,13 @@ Prediction using Supervised ML
 
 ● This is a simple linear regression task as it involves just 2 variables.
 
-Task 2
+Task 2:
+
 Prediction using Unsupervised ML
 ● From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually
 
-Task 3
+Task 3:
+
 Exploratory Data Analysis
 ● Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
 
